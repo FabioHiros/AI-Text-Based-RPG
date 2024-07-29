@@ -1,6 +1,6 @@
 <h1>Text-Based RPG Game</h1>
 
-<p>Welcome to the Text-Based RPG Game! This project is a work-in-progress interactive and engaging RPG game built with Python and the Groq API, showcasing the potential of AI in generating dynamic game content.</p>
+<p>Welcome to my Text Based Rpg! This project is a work-in-progress interactive and engaging RPG game built with Python and the Groq API, showcasing the potential of AI in generating dynamic game content.</p>
 
 <h2>Table of Contents</h2>
 <ul>
@@ -49,8 +49,8 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`</code></pre>
         <pre><code>pip install -r requirements.txt</code></pre>
     </li>
     <li>Set up environment variables for the Groq API key and model name. Create a <code>.env</code> file in the project root with the following content:
-        <pre><code>GROQ_API_KEY=your_groq_api_key
-MODEL_NAME=llama3-70b-8192</code></pre>
+        <pre><code>GROQ_API_KEY='your_groq_api_key'
+MODEL_NAME='llama3-70b-8192'</code></pre>
     </li>
 </ol>
 
