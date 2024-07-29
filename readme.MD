@@ -9,7 +9,7 @@
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
-    <li><a href="#license">License</a></li>
+    
 </ul>
 
 <h2 id="features">Features</h2>
