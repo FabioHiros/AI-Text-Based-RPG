@@ -68,15 +68,6 @@ class Inventory:
 
 class Hero(Character):
 
-    # def __init__(self,
-    #               name: str,
-    #                 health: int,
-    #                   base_damage: int,
-    #                     base_defense: int,
-    #                       weapon: str = fist,
-    #                         job: str = None
-    #                         ) -> None:
-    #     super().__init__(name, health, base_damage, base_defense, weapon, job)
 
     def equip(self, item: Item) -> None:
 
@@ -167,13 +158,4 @@ class Enemy(Character):
              
              Job: {self.job}'''
   
-    # def __init__(self,
-    #               name: str,
-    #                 health: int,
-    #                   base_damage: int,
-    #                     base_defense: int,
-    #                       weapon: str = fist,
-    #                         job: str = None
-    #                         ) -> None:
-    #     super().__init__(name, health, base_damage, base_defense, weapon, job)
 

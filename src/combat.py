@@ -93,17 +93,3 @@ class Combat:
             return False
         print(self.hero)
 
-# if __name__ == "__main__":
-#     hero = Hero(name='Fabio', health=40, base_damage=1, base_defense=2, job='monk')
-#     hero.equip(sword)
-#     hero.equip(mace)
-#     smite = Skill(name="Smite", power=10, description="Deals holy damage.")
-#     bash = Skill(name="Bash", power=10, description="Hits the enemy with full force and has a chance to stun him.")
-#     hero.add_skill(smite)
-#     hero.add_skill(bash)
-#     hero.equip(wooden_shield)
-
-#     enemy = Enemy(name='Goblin', health=30, base_damage=3, base_defense=1, job='warrior', weapon=sword, shield=wooden_shield)
-
-#     combat = Combat(hero, enemy)
-#     combat.start()
