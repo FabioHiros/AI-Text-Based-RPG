@@ -25,7 +25,9 @@
     <li><strong>Python</strong>: Core language for game development.</li>
     <li><strong>Groq API</strong>: Leveraging AI for dynamic content generation and storytelling.</li>
     <li><strong>Regular Expressions</strong>: For text processing.</li>
-    <li><stong>Langchain</strong>
+    <li><strong>Langchain</strong>
+    <li><strong>LLM:Ollama70b (groqapi)</strong>
+
 </ul>
 
 <h2 id="installation">Installation</h2>
