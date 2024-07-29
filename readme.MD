@@ -39,7 +39,7 @@
 <ol>
     <li>Clone the repository:
         <pre><code>git clone https://github.com/yourusername/text-based-rpg.git
-cd text-based-rpg</code></pre>
+cd text-based-rpg/src</code></pre>
     </li>
     <li>Create a virtual environment and activate it:
         <pre><code>python -m venv venv
